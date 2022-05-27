@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 Hello Git 123 222
 It's new line.
 Add new line. 12312
-=======
-Hello Git 123
-It's new line.
->>>>>>> parent of f238ac9 (Test status)
+Add new line.
+
+
